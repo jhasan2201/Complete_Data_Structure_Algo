@@ -73,8 +73,9 @@
 
 ### Shortest Path in Graph
 
-14. Shortest path in undirected graph (BFS)
-15. Shortest path distance in undirected graph
+**[9. Shortest path in undirected graph (BFS)](9_ShortestPathUnDir(BFS).cpp)**
+
+**[10. Shortest path distance in undirected graph](10_ShortestDistanceUnDir(BFS).cpp)**
 <hr>
 
 <figure>
